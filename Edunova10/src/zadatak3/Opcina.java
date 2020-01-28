@@ -7,6 +7,7 @@ public class Opcina extends Zupanija{
 	
 	
 	
+	
 	public String getNaziv() {
 		return naziv;
 	}
